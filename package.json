@@ -14,6 +14,6 @@
   "scripts": {
     "start": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "ypezoa",
   "license": "ISC"
 }
